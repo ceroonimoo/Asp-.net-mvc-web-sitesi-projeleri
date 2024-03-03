@@ -1,0 +1,14 @@
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Mvc kampı\MvcProjeKampi\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

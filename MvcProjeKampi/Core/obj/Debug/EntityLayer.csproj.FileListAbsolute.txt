@@ -1,0 +1,6 @@
+C:\Mvc kampı\MvcProjeKampi\Core\bin\Debug\Core.dll
+C:\Mvc kampı\MvcProjeKampi\Core\bin\Debug\Core.pdb
+C:\Mvc kampı\MvcProjeKampi\Core\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Mvc kampı\MvcProjeKampi\Core\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Mvc kampı\MvcProjeKampi\Core\obj\Debug\Core.dll
+C:\Mvc kampı\MvcProjeKampi\Core\obj\Debug\Core.pdb
